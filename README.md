@@ -54,12 +54,10 @@ project_root/
 ├── 094400-public.py                   # Championship Model (0.944 on public leaderboard)
 ├── 094508-public.py                   # Ceiling-Breaking Model (0.945 on public leaderboard)
 ├── 094640-public.py                   # Ultra-Optimized Champion Model (0.946 on public leaderboard)
-├── EDA_and_Feature_Analysis.ipynb     # Exploratory Data Analysis
+├── Xforce-EDA.ipynb     # Exploratory Data Analysis
 ├── README.md                          # This file
 ├── DASHBOARD_LINK.txt                 # Dashboard URL for easy access
-├── .gitignore                         # Git ignore file
-├── .ipynb_checkpoints/                # Jupyter notebook checkpoints (ignored by git)
-├── catboost_info/                     # CatBoost logs and info (ignored by git)
+├── .gitignore                         # Git ignore file           
 └── outputs/                           # Will be created automatically
 ```
 
