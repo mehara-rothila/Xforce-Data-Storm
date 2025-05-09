@@ -1,0 +1,10 @@
+https://dashboard.mehara.io/
+
+Copy and paste this URL into your browser to access the interactive Insurance Agent NILL Prediction Dashboard.
+
+The dashboard provides:
+- Real-time model performance metrics
+- Agent risk classification 
+- Feature importance analysis
+- Time series forecasting
+- Personalized action recommendations

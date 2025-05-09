@@ -28,6 +28,8 @@ We've deployed a comprehensive interactive dashboard to visualize predictions an
 
 The dashboard is optimized for both desktop and mobile devices, allowing managers to monitor agent performance on the go.
 
+> **Quick Access**: We've included a `DASHBOARD_LINK.txt` file in the repository for easy access to the dashboard URL. Simply open the file and copy-paste the URL into your browser.
+
 ## 🛠️ Installation & Setup
 
 ### Prerequisites
@@ -54,6 +56,10 @@ project_root/
 ├── 094640-public.py                   # Ultra-Optimized Champion Model (0.946 on public leaderboard)
 ├── EDA_and_Feature_Analysis.ipynb     # Exploratory Data Analysis
 ├── README.md                          # This file
+├── DASHBOARD_LINK.txt                 # Dashboard URL for easy access
+├── .gitignore                         # Git ignore file
+├── .ipynb_checkpoints/                # Jupyter notebook checkpoints (ignored by git)
+├── catboost_info/                     # CatBoost logs and info (ignored by git)
 └── outputs/                           # Will be created automatically
 ```
 
@@ -120,6 +126,4 @@ The models generate personalized interventions based on agent profiles:
 1. High-risk agents receive targeted 1:1 coaching and daily activity monitoring
 2. Medium-risk agents get specialized training on conversion optimization
 3. Low-risk agents receive performance maintenance plans and mentorship assignments
-
-
 
