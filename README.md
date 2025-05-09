@@ -106,14 +106,6 @@ The notebook contains:
 - Performance visualization
 - Agent segmentation analysis
 
-## 📈 Model Performance
-
-| Model                    | Accuracy | Precision | Recall  | F1 Score |
-|--------------------------|----------|-----------|---------|----------|
-| Championship Model       | 91.8%    | 88.2%     | 86.5%   | 87.3%    |
-| Ceiling-Breaking Model   | 94.2%    | 86.7%     | 89.3%   | 88.0%    |
-| Ultra-Optimized Model    | 90.2%    | 89.4%     | 83.1%   | 86.1%    |
-
 ## 🔍 Key Insights
 
 Our analysis revealed several important factors affecting agent performance:
@@ -129,11 +121,5 @@ The models generate personalized interventions based on agent profiles:
 2. Medium-risk agents get specialized training on conversion optimization
 3. Low-risk agents receive performance maintenance plans and mentorship assignments
 
-## 👨‍💻 Team
 
-- Data Storm v6.0 Championship Team
-- First Place Solution
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
